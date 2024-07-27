@@ -15,4 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 hrs 4 mins
+
+Python   0 hrs 4 mins    ██████████████████████▓░░   91.03 %
+INI      0 hrs 0 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
+```
+
 <!--END_SECTION:waka-->
