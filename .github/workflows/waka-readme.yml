@@ -16,7 +16,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           API_BASE_URL: https://wakapi.dev/api
-          SECTION_NAME: 📊 What I'm working on
           TIME_RANGE: last_7_days
           LANG_COUNT: 5
           SHOW_TIME: true
