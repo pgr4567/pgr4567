@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## 📊 What I'm working on
 <!--START_SECTION:waka-->
 
 ```txt
