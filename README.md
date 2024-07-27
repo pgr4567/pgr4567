@@ -1,20 +1,16 @@
-## Hi there 👋
+## Hi there 👋 nice to meet you
 
+I am Paul and I am studying computer science!  
+Currently, I am working on programming and **building my own completely custom slot machine**! 🎰
 
-**pgr4567/pgr4567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I like working with
+- Web Technologies (React, SolidJS, NodeJS)
+- Low-Level Languages (C, C++)
+- Electronics (Arduino)
 
-Here are some ideas to get you started:
+Feel free to reach out via `pgr4567codes@gmail.com`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-## 📊 What I'm working on
+### 📊 What I'm currently coding in
 <!--START_SECTION:waka-->
 
 ```txt
