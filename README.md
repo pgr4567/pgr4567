@@ -17,10 +17,10 @@ Feel free to reach out via `pgr4567codes@gmail.com`.
 Total Time: 2 hrs 12 mins
 
 Python       1 hrs 15 mins   ██████████████▒░░░░░░░░░░   57.18 %
-TSX          0 hrs 36 mins   ███████░░░░░░░░░░░░░░░░░░   27.63 %
+TSX          0 hrs 38 mins   ███████▒░░░░░░░░░░░░░░░░░   29.15 %
 JSON         0 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
 unknown      0 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-INI          0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+JavaScript   0 hrs 1 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
