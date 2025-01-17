@@ -16,8 +16,8 @@ Feel free to reach out via `pgr4567codes@gmail.com`.
 ```txt
 Total Time: 2 hrs 25 mins
 
-Python    1 hrs 18 mins   █████████████▒░░░░░░░░░░░   53.60 %
-Text      1 hrs 5 mins    ███████████▒░░░░░░░░░░░░░   44.88 %
+Python    1 hrs 14 mins   ████████████▓░░░░░░░░░░░░   50.85 %
+Text      1 hrs 9 mins    ████████████░░░░░░░░░░░░░   47.64 %
 unknown   0 hrs 2 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
 ```
 
