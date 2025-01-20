@@ -14,11 +14,11 @@ Feel free to reach out via `pgr4567codes@gmail.com`.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 hrs 41 mins
+Total Time: 0 hrs 7 mins
 
-Text      0 hrs 36 mins   ██████████████████████░░░   87.56 %
-Python    0 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-unknown   0 hrs 1 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Text      0 hrs 4 mins    █████████████▒░░░░░░░░░░░   53.55 %
+Python    0 hrs 2 mins    ████████▒░░░░░░░░░░░░░░░░   32.99 %
+unknown   0 hrs 1 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.45 %
 ```
 
 <!--END_SECTION:waka-->
