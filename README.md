@@ -17,8 +17,8 @@ Feel free to reach out via `pgr4567codes@gmail.com`.
 Total Time: 0 hrs 3 mins
 
 unknown    0 hrs 3 mins    █████████████████████████   100.00 %
-Text       0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Markdown   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Text       0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
