@@ -16,7 +16,7 @@ Feel free to reach out via `pgr4567codes@gmail.com`.
 ```txt
 Total Time: 0 hrs 0 mins
 
-unknown   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
