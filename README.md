@@ -14,13 +14,13 @@ Feel free to reach out via `pgr4567codes@gmail.com`.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 4 hrs 38 mins
+Total Time: 3 hrs 46 mins
 
-TSX               2 hrs 26 mins   █████████████░░░░░░░░░░░░   52.61 %
-TypeScript        1 hrs 22 mins   ███████▒░░░░░░░░░░░░░░░░░   29.50 %
-JSON              0 hrs 34 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-YAML              0 hrs 6 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
-Java              0 hrs 5 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+TSX               2 hrs 5 mins    ██████████████░░░░░░░░░░░   55.42 %
+TypeScript        1 hrs 2 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.28 %
+JSON              0 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
+Java              0 hrs 5 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Groovy            0 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
