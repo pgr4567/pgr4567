@@ -14,9 +14,9 @@ Feel free to reach out via `pgr4567codes@gmail.com`.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 0 hrs 43 mins
+Total Time: 0 hrs 0 mins
 
-HTML   0 hrs 43 mins   █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
